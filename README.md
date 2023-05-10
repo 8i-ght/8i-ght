@@ -1,4 +1,4 @@
-<img src="![banner](https://github.com/8i-ght/8i-ght/assets/113914772/81b7c517-f2d0-4b7f-9040-a857904d8958)">
+![banner](https://github.com/8i-ght/8i-ght/assets/113914772/81b7c517-f2d0-4b7f-9040-a857904d8958)
 <h3 align="left">Kayden Roberts</h3>
 
 - 🔭 I’m currently working on **Weather App**
