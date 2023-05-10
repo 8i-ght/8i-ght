@@ -1,4 +1,4 @@
-<h3 align="center">A hardworking passionate frontend developer from Cape Girardeau Missouri</h3>
+<h3 align="center">Kayden Roberts</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=8i-ght&label=Profile%20views&color=0e75b6&style=flat" alt="8i-ght" /> </p>
 
