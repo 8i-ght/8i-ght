@@ -1,8 +1,5 @@
 <h3 align="center">Kayden Roberts</h3>
 
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=8i-ght" alt="8i-ght" /></a> </p>
-
 - 🔭 I’m currently working on **Weather App**
 
 - 🌱 I’m currently learning **JavaScript**
