@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **keroberts3545@gmail.com**
 
-- ⚡ Fun fact **I am very interested in machine learning**
+- ⚡ Fun fact **I am extremly interested in machine learning**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
