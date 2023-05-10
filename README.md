@@ -1,4 +1,4 @@
-<h3 align="center">Kayden Roberts</h3>
+<h3 align="left" style="border-bottom: 2px solid;">Kayden Roberts</h3>
 
 - 🔭 I’m currently working on **Weather App**
 
