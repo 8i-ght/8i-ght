@@ -23,4 +23,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=8i-ght&show_icons=true&locale=en&layout=compact" alt="8i-ght" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=8i-ght&show_icons=true&locale=en" alt="8i-ght" /></p>
+
