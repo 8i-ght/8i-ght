@@ -5,7 +5,7 @@ Hi, my name is Kayden Roberts I am a Junior Student at Cape Central High School 
     
 Currently as a student at Cape Central High School, I have a 3.3 GPA and am hoping to get it up to a 3.4-3.5. I have took a number of computer classes at my high school to further my knowledge of software. After I graduate High School I am planning on going to a 4 year University to major in Computer Science, and gain certifications to become a better coder/programmer. One of my ultimate goals is to help advance the field of machine learning and learn the extent of how powerful AI could become in the future. 
 
-Outside of school I am currently employed at Dairy Queen and work anywhere from 20-25 hours a week. I also enjoy going to the gym and go around 5-6 days a week depending on if I have enough time. I think that going to the gym is very important because it builds discipline and that discipline can be applied to almost anywhere in life and can help me stay determined to my career path.
+Outside of school I am currently employed at Dairy Queen and work anywhere from 20-25 hours a week. I also enjoy going to the gym and go around 5-6 days a week depending on if I have enough time. I think that going to the gym is very important because it builds discipline and that discipline can be applied to almost anywhere in life and can help me stay determined to succeed.
 </p>
 
 - 🔭 I’m currently working on **Weather App**
