@@ -1,7 +1,7 @@
 ![Kayden Roberts](https://github.com/8i-ght/8i-ght/assets/113914772/5c2fb416-fd0b-4cf2-b456-6ce631854e7e)
 <h1 align="left">About Me</h3>
 <p>
-Hi, my name is Kayden Roberts I am a Junior Student at Cape Central High School in Cape Girardeau Missouri. My goal is to become a Software Engineer one day after I finish college. Currently I am working towards that goal by taking a computer coding and programming class at the Cape Girardeau Career Technology Center. I am wanting to go into the field of Computer Science because I believe there is a lot of promise in this career path in the future and I also enjoy the complexity of software.
+Hi, my name is Kayden Roberts I am a Senior Student at Cape Central High School in Cape Girardeau Missouri. My goal is to become a Software Engineer one day after I finish college. Currently I am working towards that goal by taking a computer coding and programming class at the Cape Girardeau Career Technology Center. I am wanting to go into the field of Computer Science because I believe there is a lot of promise in this career path in the future and I also enjoy the complexity of software.
     
 Currently as a student at Cape Central High School, I have a 3.3 GPA and am hoping to get it up to a 3.4-3.5. I have took a number of computer classes at my high school to further my knowledge of software. After I graduate High School I am planning on going to a 4 year University to major in Computer Science, and gain certifications to become a better coder/programmer. One of my ultimate goals is to help advance the field of machine learning and learn the extent of how powerful AI could become in the future. 
 
