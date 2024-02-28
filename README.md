@@ -8,7 +8,7 @@ Currently as a student at Cape Central High School, I have a 3.45 GPA and am hop
 Outside of school I am currently employed at Walmart and work anywhere from 20-25 hours a week. Something else that I am going to be involved in later in the school year is I am going to be running track in the spring. I really enjoy going to the gym and running the track even though I haven't ran for the school besides for what I'm going to be doing this year. Working has helped me develop better social skills and allowed me to be accustomed to a fast paced environment.
 </p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api8i-ght=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=8i-ght)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <h1 align="left">Tools:</h3>
