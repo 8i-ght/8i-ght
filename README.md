@@ -17,14 +17,14 @@ Outside of school I am currently employed at Walmart and work anywhere from 20-2
 <a href="https://instagram.com/kayden2727" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kayden2727" height="30" width="40" /></a>
 </p>
 
-<h1 align="left">Stats:</h3>
+<h3 align="left">Stats:</h3>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=8i-ght)](https://github.com/anuraghazra/github-readme-stats)
     
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=8i-ght&show_icons=true&locale=en&layout=compact" alt="8i-ght" /></p>
 
 <hr>
-<h1 margin-top="100px">Work Examples:</h1>
+<h3 margin-top="100px">Work Examples:</h3>
 <img src="https://github.com/8i-ght/clothing-website/blob/main/asset/img/clothingGIF.gif" width="50%"/>
 
 
