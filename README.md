@@ -8,15 +8,7 @@ Currently as a student at Cape Central High School, I have a 3.45 GPA and am hop
 Outside of school I am currently employed at Walmart and work anywhere from 20-25 hours a week. Something else that I am going to be involved in later in the school year is I am going to be running track in the spring. I really enjoy going to the gym and running the track even though I haven't ran for the school besides for what I'm going to be doing this year. Working has helped me develop better social skills and allowed me to be accustomed to a fast paced environment.
 </p>
 
-- 🔭 I’m currently working on **Weather App**
-
-- 🌱 I’m currently learning **JavaScript**
-
-- 👨‍💻 All of my projects are available at [https://github.com/8i-ght](https://github.com/8i-ght)
-
-- 📫 How to reach me **keroberts3545@gmail.com**
-
-- ⚡ Fun fact **I am extremly interested in machine learning**
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api8i-ght=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <h1 align="left">Tools:</h3>
