@@ -17,3 +17,4 @@ Outside of school I am currently employed at Walmart and work anywhere from 20-2
 
 <hr>
 <h1 margin-top="100px">Work Examples:</h1>
+<img src="clothingGIF.gif"/>
