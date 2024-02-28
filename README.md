@@ -13,7 +13,7 @@ Outside of school I am currently employed at Walmart and work anywhere from 20-2
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=8i-ght)](https://github.com/anuraghazra/github-readme-stats)
     
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=8i-ght&show_icons=true&locale=en&layout=compact" alt="8i-ght" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=8i-ght&show_icons=true&locale=en&layout=compact" alt="8i-ght" /></p>
 
 <hr>
 <h1 margin-top="100px">Work Examples:</h1>
