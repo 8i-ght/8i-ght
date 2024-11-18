@@ -3,11 +3,11 @@
 <p>
 Hi, my name is Kayden Roberts I am a Freshman Student at Southeast Missouri State in Cape Girardeau Missouri. My goal is to become a Software Engineer one day after I finish college. Currently, I am working towards that goal by Majoring in Computer Science while in college and trying my hand at bootcamps outside of class. Before College I went to Cape Central High School and took a computer coding & programming course at the Cape Career and Technology Center. I want to go into the field of Computer Science because I believe there is a lot of promise in this career path in the future and I also enjoy the complexity of software.
     
-Currently, as a student at SEMO, I have a N/A GPA, graduating from Cape Central High School I had a 3.5 GPA. I have taken a several computer classes at my high school to further my knowledge of software. One of my ultimate goals to help advance the field of machine learning and learn the extent of how powerful AI could become in the future. 
+Currently, as a student at SEMO, I have a 3.6 GPA, graduating from Cape Central High School I had a 3.5 GPA. I have taken a several computer classes at my high school to further my knowledge of software. One of my ultimate goals to help advance the field of machine learning and learn the extent of how powerful AI could become in the future. 
 
-Outside of school I am currently employed at Walmart and work anywhere from 20-29 hours a week. I also enjoy running on the track and going to the gym. Retail and fast food have helped me become accustomed to working well in a fast-paced environment and with other people. Whenever I have free time and am not swamped by school work I enjoy working on web development.
+Outside of school I am currently employed at Walmart and work anywhere from 20-29 hours a week. I also enjoy going to the gym. Retail has helped me become accustomed to working well in a fast-paced environment and with other people. Whenever I have free time and am not swamped by school work I enjoy working on my machine learning, software development, and web development skills.
 
-I am looking forward to working as a Software Engineer in the future and furthering my knowledge of programming. I do not think that this field will be dying out anytime soon even with the rise of AI threatening to take about programmers jobs. I have been interested in the field of computer science ever since I was very young and I can't wait to enter the industry. 
+I am looking forward to working as a Software Engineer in the future and furthering my knowledge of programming. I do not think that this field will be dying out anytime soon even with the rise of AI threatening to take about programmers jobs. 
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
