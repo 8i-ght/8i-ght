@@ -1,4 +1,3 @@
-![Kayden Roberts](https://github.com/8i-ght/8i-ght/assets/113914772/5c2fb416-fd0b-4cf2-b456-6ce631854e7e)
 <h1 align="left">About Me</h3>
 <p>
 Hi, my name is Kayden Roberts I am a Freshman Student at Southeast Missouri State in Cape Girardeau Missouri. My goal is to become a Software Engineer one day after I finish college. Currently, I am working towards that goal by Majoring in Computer Science while in college and trying my hand at bootcamps outside of class. Before College I went to Cape Central High School and took a computer coding & programming course at the Cape Career and Technology Center. I want to go into the field of Computer Science because I believe there is a lot of promise in this career path in the future and I also enjoy the complexity of software.
