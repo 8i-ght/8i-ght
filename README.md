@@ -24,6 +24,8 @@ I am looking forward to working as a Software Engineer in the future and further
 
 <hr>
 <h3 margin-top="100px">Work Examples:</h3>
+<h4 margin-top="100px">UI/UX</h4>
 <img src="https://github.com/8i-ght/clothing-website/blob/main/asset/img/clothingGIF.gif" width="50%"/>
-
+<h4 margin-top="100px">Chatbot</h4>
+<video src="https://github.com/user-attachments/assets/7c1814f5-04a0-4583-9c1c-518270391d08" width="50" />
 
