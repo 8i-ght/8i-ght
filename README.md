@@ -2,7 +2,7 @@
 <p>
 Hi, my name is Kayden Roberts I am a Freshman Student majoring in Computer Science at Southeast Missouri State University in Cape Girardeau Missouri. Before College, I went to Cape Central High School and took a computer coding & programming course at the Cape Career and Technology Center.
     
-Currently, as a student at SEMO, I have a 3.6 GPA, graduating from Cape Central High School I had a 3.5 GPA. I have taken a several computer classes at my high school to further my knowledge of software. One of my ultimate goals to help advance the field of machine learning and learn the extent of how powerful AI could become in the future. 
+I have taken a several computer classes at my high school to further my knowledge of software. Currently, I enjoy working in python and experimenting with AI. This ties into one of my ultimate goals to help advance the field of machine learning and learn the extent of how powerful AI could become in the future. 
 
 I am looking forward to working as a Software Engineer in the future and furthering my knowledge of programming. I do not think that this field will be dying out anytime soon even with the rise of AI threatening to take about programmers jobs. 
 </p>
