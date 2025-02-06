@@ -1,10 +1,6 @@
 <h1 align="left">About Me</h3>
 <p>
-Hi, my name is Kayden Roberts I am a Freshman Student majoring in Computer Science at Southeast Missouri State University in Cape Girardeau Missouri. Before College, I went to Cape Central High School and took a computer coding & programming course at the Cape Career and Technology Center.
-    
-I have taken a several computer classes at my high school to further my knowledge of software. Currently, I enjoy working in python and experimenting with AI. This ties into one of my ultimate goals to help advance the field of machine learning and learn the extent of how powerful AI could become in the future. 
-
-I am looking forward to working as a Software Engineer in the future and furthering my knowledge of programming. I do not think that this field will be dying out anytime soon even with the rise of AI threatening to take about programmers jobs. 
+Hi, my name is Kayden Roberts I am a freshman student majoring in computer science at Southeast Missouri State University in Cape Girardeau, Missouri. I enjoy working with AI and fine-tuning my technical skills through personal projects.
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
